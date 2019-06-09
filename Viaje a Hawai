@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            h2{
+                color: rgb(250, 10, 70);
+            }
+            body{
+                background-color: rgb(110, 245, 234);
+                color: rgb(31, 18, 224);
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to Hawai</h1>
+    <img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png" alt="Las preciosas playas de Hawaii" height="180">
+<p>Hawái (en inglés, Hawaii; en hawaiano, Hawai‘i) es uno de los cincuenta estados que, junto con Washington D. C., forman los Estados Unidos de América. Su capital y ciudad más poblada es Honolulu.
+Está ubicado en la región Oeste del país, división Pacífico, situado en el archipiélago de Hawái </p>
+<h2>Cosas que ver en Hawai</h2>
+<li>Isla Oahu </li>
+<li>Isla Maui </li>
+<li> Puukohola Heiau </li>
+<li> South Point Park </li>
+<h2>Comida tipica de Hawai</h2>
+<ol><li> Arroz largo con pollo: pollo cocinado con caldo de pollo, jengibre, cebolleta y arroz largo.</li>
+<li>Café Kona.</li>
+<li>Cerdo kalua: pulled pork con repollo marinado al vapor </li>
+<li>Laulau: pescado o cerdo al vapor envuelto en hojas de taro y una hoja de ti. </li>
+</ol>
+    <img src="https://www.kasandbox.org/programming-images/landscapes/mountains-in-hawaii.png" width="187" height="240">
+<p> espero que con esta guia basica puedas disfrutar Hawai en su mayor explendor y ojala te encante tanto como a todo el mundo que la visita.
+
+
+    </body>
+</html>
